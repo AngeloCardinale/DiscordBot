@@ -159,4 +159,4 @@ async def skip(ctx):
     voice = discord.utils.get(client.voice_clients, guild=ctx.guild)
     voice.stop()
 
-client.run('ODQzODk5NjA0NTE5ODc4NjU3.YKKkwA.K2q0w74kAu6oPB40aM9_SzXt1V4')
+client.run('TOKEN')
